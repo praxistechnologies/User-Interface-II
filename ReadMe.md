@@ -19,7 +19,7 @@ Portfolio websites are a great way to show off your work to friends, family, and
 
 ## Instructions
 
-### Task 1: Set Up The Project With Git
+### Task 1: Set Up The Project With Git - DONE
 
 Follow these steps to set up and work on your project:
 
@@ -29,7 +29,7 @@ Follow these steps to set up and work on your project:
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
  
-### Task 2: Minimum Viable Product
+### Task 2: Minimum Viable Product - DONE
 
 Once your repository is set up, practice what you learned today to create a portfolio site from the wireframe of your choosing. **You may choose any of the three wireframes in the "Wireframe Options" folder above.** Your complete project should look similar to the wireframe you chose, and include all of the following elements:
 
@@ -44,8 +44,8 @@ Once your repository is set up, practice what you learned today to create a port
 
 The following goals are designed to stretch your knowledge and may require additional research beyond what was learned in class today.
 
-- [ ] Make your webpage work at different browser widths, including mobile
-- [ ] Add CSS animations
+- [ ] Make your webpage work at different browser widths, including mobile - DONE
+- [ ] Add CSS animations - DONE ON BUTTONS
 - [ ] Design and execute your own wireframe for `About`, `Projects`, and `Contact` pages
 - [ ] Host your website on Netlify.com
 
